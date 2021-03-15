@@ -1,6 +1,6 @@
 Hello
 
-Welcome to my kitechen.
+Welcome to my kitchen.
 
 Recipes:
 1.Biriyani
@@ -11,6 +11,9 @@ Recipes:
 
 Thank you.
 
-I dont know wat to do and how to do. 
 
+I dont know wat to do and how to do. 
 not done
+=======
+done
+
