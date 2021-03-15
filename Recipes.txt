@@ -5,6 +5,8 @@ Welcome to my kitechen.
 Recipes:
 1.Biriyani
 2.mutton
+3.potato fry
+
 
 
 Thank you.
